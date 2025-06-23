@@ -9,4 +9,5 @@
 - Tokyo
 - Wakayama, Japan
 - Ishigaki Island
+- Shiga, Japan
 
