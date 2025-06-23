@@ -2,3 +2,11 @@
 
 # List of place
 - bangkok
+- Matsushima
+- Hokkaidou
+- Izu Peninsula
+- Nara
+- Tokyo
+- Wakayama, Japan
+- Ishigaki Island
+
