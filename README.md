@@ -9,4 +9,5 @@
 - Tokyo
 - Wakayama, Japan
 - Ishigaki Island
+- Malta
 
