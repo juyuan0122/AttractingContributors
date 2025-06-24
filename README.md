@@ -2,4 +2,12 @@
 
 # List of place
 - Turkey
-
+- bangkok
+- Matsushima
+- Hokkaidou
+- Izu Peninsula
+- Nara
+- Tokyo
+- Wakayama, Japan
+- Ishigaki Island
+- Yamanashi, Japan
