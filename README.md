@@ -10,4 +10,5 @@
 - Tokyo
 - Wakayama, Japan
 - Ishigaki Island
+- Numazu city
 - Yamanashi, Japan
