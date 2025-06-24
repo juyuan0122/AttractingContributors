@@ -10,5 +10,6 @@
 - Tokyo
 - Wakayama, Japan
 - Ishigaki Island
+- Malta
 - Numazu city
 - Yamanashi, Japan
