@@ -15,3 +15,4 @@
 - Malta
 - Numazu city
 - Yamanashi, Japan
+- Zhangjiajie National Forest Park
