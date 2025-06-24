@@ -9,4 +9,4 @@
 - Tokyo
 - Wakayama, Japan
 - Ishigaki Island
-
+- Yamanashi, Japan
